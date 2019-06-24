@@ -1,7 +1,7 @@
 {
-  "name": "new",
+  "name": "Github Search",
   "version": "1.0.0",
-  "description": "",
+  "description": "Github User Search",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
